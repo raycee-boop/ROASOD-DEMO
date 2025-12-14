@@ -1,0 +1,16 @@
+{
+  "name": "ROASOD Websites",
+  "short_name": "ROASOD",
+  "start_url": "./INDEX.HTML",
+  "display": "standalone",
+  "background_color": "#00121a",
+  "theme_color": "#00121a",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
